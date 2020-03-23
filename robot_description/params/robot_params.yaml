@@ -1,0 +1,7 @@
+navigation:
+    local_planner:
+        cmd_vel_frequency: 5
+
+        
+robot_dimensions:
+    wheel_base: 0.30
