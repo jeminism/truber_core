@@ -1,0 +1,2 @@
+[submodule "ackermann_controller"]
+	url = https://github.com/jeminism/truber_core/ackermann_controller.git
